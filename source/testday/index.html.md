@@ -5,7 +5,6 @@ get feedback on what's working and what needs work.
 
 ## Upcoming test days
 
-* [Mitaka-2 - Jan 27-28](/testday/mitaka/milestone2)
 * February test day - Feb 18-19
 * Mitaka 3, RC - Mar 10-11
 * Mitaka GA - Apr 13-14
